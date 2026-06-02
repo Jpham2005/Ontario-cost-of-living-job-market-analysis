@@ -1,6 +1,9 @@
 # Ontario Cost of Living & Job Market Analysis
 
 ![Ontario Cost of Living Analysis Preview](charts/ontario_cpi_trend.png)
+![Ontario Cost of Living Analysis Preview](charts/employment_unemployment_trend.png)
+![Ontario Cost of Living Analysis Preview](charts/unemployment_rate_trend.png)
+![Ontario Cost of Living Analysis Preview](charts/yearly_cpi_comparison.png)
 
 **Author:** Minh Tuan Pham
 
