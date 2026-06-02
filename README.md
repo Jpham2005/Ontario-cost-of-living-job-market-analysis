@@ -1,5 +1,7 @@
 # Ontario Cost of Living & Job Market Analysis
 
+![Ontario Cost of Living Analysis Preview](charts/ontario_cpi_trend.png)
+
 **Author:** Minh Tuan Pham
 
 The **Ontario Cost of Living & Job Market Analysis** is a Python-based data analysis project designed to study economic trends in Ontario from 2019 to 2025.
